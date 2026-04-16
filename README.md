@@ -1,9 +1,9 @@
 
-# AgriOptics — AI-Powered Soil Health & Nutrient Optimization (System design)
+# Soil health monitoring in real time (System design)
 
 ## Overview
 
-**AgriOptics** is an AI-powered precision agriculture system that enables farmers to **analyze soil health, predict nutrient deficiencies, and receive actionable fertilizer recommendations** — without requiring expensive lab tests.
+**This is a system design for an AI-powered precision agriculture system that enables farmers to **analyze soil health, predict nutrient deficiencies, and receive actionable fertilizer recommendations** — without requiring expensive lab tests.
 
 The system integrates:
 
